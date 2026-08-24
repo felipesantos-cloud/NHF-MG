@@ -8,7 +8,7 @@ __pycache__/
 .streamlit/secrets.toml
 
 # Se os NetCDF forem grandes, não os envie ao GitHub comum.
-data/Tmax/*.nc
-data/Tmin/*.nc
+#data/Tmax/*.nc
+#data/Tmin/*.nc
 !data/Tmax/.gitkeep
 !data/Tmin/.gitkeep
