@@ -178,7 +178,6 @@ Nesse contexto, o Sistema Agroclimático de Acúmulo de Frio (SAAF) exibe a clim
 Ao utilizar os dados ou figuras gerados no SAAF, use a referência obrigatória: SANTOS, F. H.; FAGUNDES, F. F. A.; KOCH, G.; MARTINS, F. B. **Sistema Agroclimático de Acúmulo de Frio – SAAF**. 2026. Disponível em: https://saaf-nhf-mg.streamlit.app/.
 """
 )
-)
 
 with st.expander("Como o sistema funciona", expanded=False):
     st.markdown(
