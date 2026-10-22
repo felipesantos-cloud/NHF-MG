@@ -165,8 +165,8 @@ st.caption(
 )
 
 st.markdown(
-    """
-Frutíferas de clima temperado são plantas que possuem necessidade de acúmulo de frio. Por isso, se desenvolvem melhor em regiões que possuem outono ou inverno relativamente frio e verões amenos a quentes. O acúmulo de frio é necessário para a planta  sair do período de dormência e iniciar adequadamente um novo ciclo reprodutivo, com brotação, florescimento e frutificação normais.
+"""
+Frutíferas de clima temperado são plantas que possuem necessidade de acúmulo de frio. Por isso, se desenvolvem melhor em regiões que possuem outono ou inverno relativamente frio e verões amenos a quentes. O acúmulo de frio é necessário para a planta sair do período de dormência e iniciar adequadamente um novo ciclo reprodutivo, com brotação, florescimento e frutificação normais.
 
 O acúmulo de frio é a quantidade total, em horas, em que a temperatura do ar permanece abaixo de um limiar, denominado temperatura base. A temperatura base depende da espécie/cultivar/variedade.
 
@@ -174,7 +174,10 @@ Nesse contexto, o Sistema Agroclimático de Acúmulo de Frio (SAAF) exibe a clim
 
 **Desenvolvimento:** Felipe Henrique dos Santos.  
 **Orientação:** Flávia Fernanda Azevedo Fagundes, Gabriel Koch e Fabrina Bolzan Martins.
-    """
+
+Ao utilizar os dados ou figuras gerados no SAAF, use a referência obrigatória: SANTOS, F. H.; FAGUNDES, F. F. A.; KOCH, G.; MARTINS, F. B. **Sistema Agroclimático de Acúmulo de Frio – SAAF**. 2026. Disponível em: https://saaf-nhf-mg.streamlit.app/.
+"""
+)
 )
 
 with st.expander("Como o sistema funciona", expanded=False):
