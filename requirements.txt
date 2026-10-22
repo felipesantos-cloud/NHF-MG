@@ -10,3 +10,4 @@ geopandas>=1.0
 geobr==1.0.0
 pyproj>=3.6
 shapely>=2.0
+duckdb==1.0.0
